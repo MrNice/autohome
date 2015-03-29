@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "nodejs-websocket": "^1.2.1",
     "relay-mono": "^0.1.2",
     "tesselate": "0.0.2"
   }
